@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5CqpigvufIbAKL1KDMVZfAA7oY3bx7OlT3KpK8fBEzGpoML0Dcb7CvAs4c8ah7D/JdJqtq27PaxKfT7/0ZLEg==",
+  "success": true,
+  "projectFilePath": "/Users/victor/Documents/prueba/prueba/prueba.csproj",
+  "expectedPackageFiles": [
+    "/Users/victor/.nuget/packages/k4os.compression.lz4/1.3.8/k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "/Users/victor/.nuget/packages/litedb/5.0.19/litedb.5.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
